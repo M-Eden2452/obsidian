@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"65a4c893f339a58f","x":-840,"y":-586,"width":612,"height":278,"color":"#f06c00","type":"file","file":"💻Программирование/Plan and deadlines/Js base.md"},
+		{"id":"79825bad143fb1ac","x":-484,"y":-575,"width":256,"height":256,"color":"2","type":"file","file":"💻Программирование/Plan and deadlines/attachments/java-script.png"},
+		{"id":"17eb7380fae95d78","x":-742,"y":-154,"width":417,"height":60,"type":"text","text":"- [Js для верстальщика](https://www.youtube.com/watch?v=Cd6Q-n3-Ojs&t=214s)"},
+		{"id":"03fc5efe27f133ea","x":-840,"y":-693,"width":56,"height":60,"type":"text","text":"# 1"},
+		{"id":"d2e4d2248df383b5","x":54,"y":-575,"width":429,"height":401,"type":"text","text":"2. Burger / fall out submenu []()\n3.  Sorting, filters \n4. Swiper slider \n5. Parallax \n6. Scroll \n7. Animation: css, js\n8. Validation \n9. Ajax \n10. "},
+		{"id":"49874f48db82acd3","x":512,"y":-174,"width":429,"height":401,"type":"text","text":"2. Burger / fall out submenu \n3.  Sorting, filters \n4. Swiper slider \n5. Parallax \n6. Scroll \n7. Animation: css, js\n8. Validation \n9. Ajax \n10. "},
+		{"id":"fe9f259fcccf256c","x":-907,"y":1023,"width":67,"height":70,"type":"text","text":"#  2"},
+		{"id":"3a3541b7715c29f5","x":-907,"y":1348,"width":559,"height":405,"color":"5","type":"text","text":"Пройти курс [Путь самурая](https://www.youtube.com/watch?v=t6rAzhi3vjQ&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8&index=17):\n\n1.  ✅\n2.  ✅\n3.  ✅\n4.  ✅\n5.  ✅\n6.  ✅\n7.  ✅\n8.  ✅\n9. "},
+		{"id":"e04e1ddca14f6577","x":-907,"y":1138,"width":559,"height":210,"color":"5","type":"file","file":"💻Программирование/Plan and deadlines/React.md"},
+		{"id":"e9e1f330814e02fa","x":-558,"y":1138,"width":210,"height":210,"color":"5","type":"file","file":"💻Программирование/Plan and deadlines/attachments/7423888_react_react native_icon 4.png"},
+		{"id":"3dfbe4d26e97c6ea","x":-900,"y":1858,"width":552,"height":80,"color":"5","type":"text","text":"Выполнить - [Сайт портфолио](https://www.youtube.com/watch?v=Iz1NvqG7wTc&t=4744s)"},
+		{"id":"d0876a4363b6b070","x":-900,"y":2031,"width":273,"height":50,"color":"3","type":"text","text":"<mark class=\"orange\">Date</mark> 01.20</mark>"},
+		{"id":"b9d832a598a0bad1","x":-196,"y":-21,"width":250,"height":60,"type":"text","text":"[LearnJS](https://learn.javascript.ru/)"},
+		{"id":"dbc9e9b0bd6f26f9","x":-742,"y":-71,"width":294,"height":50,"type":"text","text":"- Грокаем алгоритмы \n\n"},
+		{"id":"8eef642503b6e888","x":-742,"y":9,"width":294,"height":205,"type":"file","file":"💻Программирование/Plan and deadlines/attachments/Грокаем алгоритмы ( PDFDrive ) 2.pdf"},
+		{"id":"0b770624539e7f99","x":-742,"y":260,"width":250,"height":61,"type":"text","text":"- Modal window "},
+		{"id":"73b18cbb9ced0d3c","x":-742,"y":369,"width":250,"height":67,"type":"text","text":"- Modal window "}
+	],
+	"edges":[
+		{"id":"60da74fb74661cc9","fromNode":"65a4c893f339a58f","fromSide":"bottom","toNode":"17eb7380fae95d78","toSide":"top"},
+		{"id":"df037aa21b89df26","fromNode":"3a3541b7715c29f5","fromSide":"bottom","toNode":"3dfbe4d26e97c6ea","toSide":"top"},
+		{"id":"f858bcb297b9c28d","fromNode":"17eb7380fae95d78","fromSide":"bottom","toNode":"dbc9e9b0bd6f26f9","toSide":"top"},
+		{"id":"5421c95579280dae","fromNode":"65a4c893f339a58f","fromSide":"bottom","toNode":"b9d832a598a0bad1","toSide":"top"},
+		{"id":"da21d4858143f88e","fromNode":"17eb7380fae95d78","fromSide":"right","toNode":"b9d832a598a0bad1","toSide":"left"},
+		{"id":"655cf8942df835d5","fromNode":"dbc9e9b0bd6f26f9","fromSide":"right","toNode":"b9d832a598a0bad1","toSide":"left"}
+	]
+}

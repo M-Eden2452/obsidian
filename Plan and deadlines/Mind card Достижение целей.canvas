@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"774bbd5331748431","x":-744,"y":-353,"width":348,"height":60,"type":"text","text":"# Скилы"},
+		{"id":"d3dc73ccc7e41fb9","x":-308,"y":-353,"width":169,"height":75,"color":"4","type":"text","text":"# Фриланс"},
+		{"id":"8d37c00f930bf96b","x":-1009,"y":-923,"width":1683,"height":447,"color":"#ffffff","type":"text","text":"`base`\n##  1. Веб-разработчик  [[Tasks and Deadlines.canvas]]\n##  2.  \n##  3.\n##  4.\n\n"},
+		{"id":"c4f978aa9149fa74","x":-478,"y":338,"width":136,"height":63,"type":"text","text":"# <mark class=\"hltr-green\">3000$</mark>"},
+		{"id":"a959fc07af13510a","x":-664,"y":574,"width":322,"height":67,"type":"text","text":"# <mark class=\"hltr-purple\">Европа удаленка </mark>"},
+		{"id":"360b2b1c5c5b2d92","x":-8,"y":10,"width":260,"height":198,"type":"text","text":"1. fiver\n2. weblancer\n3. frelancehunt\n4. upwork \n5. ... other"},
+		{"id":"fef8fad6c77fa5fe","x":-1094,"y":10,"width":231,"height":50,"color":"5","type":"text","text":"# английский "},
+		{"id":"26a80637ed1a2a82","x":-819,"y":3,"width":341,"height":106,"color":"2","type":"text","text":"<mark class=\"hltr-orange\"># JS \n\n[[Tasks and Deadlines.canvas]]</mark>"},
+		{"id":"25f39e69ad5bcbf5","x":-538,"y":-123,"width":230,"height":60,"color":"#0311d3","type":"text","text":"# <mark class=\"hltr-blue\">Портфолио</mark>"}
+	],
+	"edges":[
+		{"id":"789dfb048dd04afb","fromNode":"d3dc73ccc7e41fb9","fromSide":"bottom","toNode":"fef8fad6c77fa5fe","toSide":"top","color":"4"},
+		{"id":"1dc1b37ff0a0e9a9","fromNode":"fef8fad6c77fa5fe","fromSide":"bottom","toNode":"c4f978aa9149fa74","toSide":"top","color":"3"},
+		{"id":"9bed36d665c7db65","fromNode":"c4f978aa9149fa74","fromSide":"bottom","toNode":"a959fc07af13510a","toSide":"top","color":"6"},
+		{"id":"c009f0760dd734a6","fromNode":"d3dc73ccc7e41fb9","fromSide":"bottom","toNode":"c4f978aa9149fa74","toSide":"top","color":"4"},
+		{"id":"f738ac9f0f977044","fromNode":"fef8fad6c77fa5fe","fromSide":"bottom","toNode":"a959fc07af13510a","toSide":"top","color":"3"},
+		{"id":"0b3c3c21428a247e","fromNode":"d3dc73ccc7e41fb9","fromSide":"bottom","toNode":"360b2b1c5c5b2d92","toSide":"left","color":"4"},
+		{"id":"ef2ff9cb691f1ff6","fromNode":"360b2b1c5c5b2d92","fromSide":"bottom","toNode":"c4f978aa9149fa74","toSide":"top","color":"4"},
+		{"id":"90a65beeaf816f58","fromNode":"fef8fad6c77fa5fe","fromSide":"right","toNode":"360b2b1c5c5b2d92","toSide":"left","color":"3"},
+		{"id":"9e69ebc334185c0c","fromNode":"774bbd5331748431","fromSide":"bottom","toNode":"26a80637ed1a2a82","toSide":"top","color":"3"},
+		{"id":"fbeaa1dc3a034b45","fromNode":"26a80637ed1a2a82","fromSide":"bottom","toNode":"a959fc07af13510a","toSide":"top","color":"3"},
+		{"id":"9912aa259ba983f6","fromNode":"26a80637ed1a2a82","fromSide":"bottom","toNode":"c4f978aa9149fa74","toSide":"top","color":"3"},
+		{"id":"751182c2a9ce1b6a","fromNode":"26a80637ed1a2a82","fromSide":"bottom","toNode":"c4f978aa9149fa74","toSide":"top","color":"3"},
+		{"id":"4a7bdb362045ce46","fromNode":"fef8fad6c77fa5fe","fromSide":"bottom","toNode":"c4f978aa9149fa74","toSide":"top","color":"3"},
+		{"id":"5e7e9a6d94f875a4","fromNode":"774bbd5331748431","fromSide":"bottom","toNode":"25f39e69ad5bcbf5","toSide":"top"},
+		{"id":"8018efd56ea0e476","fromNode":"d3dc73ccc7e41fb9","fromSide":"bottom","toNode":"25f39e69ad5bcbf5","toSide":"top"},
+		{"id":"3ffb31e680311258","fromNode":"25f39e69ad5bcbf5","fromSide":"bottom","toNode":"360b2b1c5c5b2d92","toSide":"top","color":"#1023b1"},
+		{"id":"e14a06df9f0a0e9e","fromNode":"25f39e69ad5bcbf5","fromSide":"bottom","toNode":"26a80637ed1a2a82","toSide":"top","color":"#0d2482"},
+		{"id":"8fe541fa1f115c46","fromNode":"25f39e69ad5bcbf5","fromSide":"bottom","toNode":"c4f978aa9149fa74","toSide":"top","color":"#1f24b2"}
+	]
+}

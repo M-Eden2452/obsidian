@@ -1,0 +1,160 @@
+/* @font-face {
+	font-family: 'StemBold';
+	src: url('/fonts/Stem-Bold.woff2'); 
+}
+@font-face {
+	font-family: 'StemMedium';
+	src: url('/fonts/Stem-Medium.woff2'); 
+    font-weight: 500;
+}
+@font-face {
+	font-family: 'StemSemiLight';
+	src: url('/fonts/Stem-SemiLight.woff2'); 
+    font-weight: 350;
+}
+@font-face {
+	font-family: 'RobotoLight';
+	src: url('/fonts/roboto/Roboto-Light.woff2'); 
+}
+@font-face {
+	font-family: 'Roboto';
+	src: url('/fonts/roboto/Roboto-Regular.woff2'); 
+}
+@font-face {
+	font-family: 'Roboto';
+	src: url('/fonts/roboto/Roboto-Medium.woff2'); 
+}
+@font-face {
+	font-family: 'Roboto';
+	src: url('/fonts/roboto/Roboto-Bold.woff2'); 
+}
+
+*,
+*::before,
+*::after {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+a {
+	text-decoration: none;
+    color: #1C1C1C;
+}
+ul,
+ol,
+li {
+	list-style: none;
+}
+img {
+	vertical-align: top;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+html,
+body {
+	height: 100%;
+	line-height: 1;
+	font-size: 18px;
+	background-color: #fff;
+	color: #1C1C1C;
+    font-family: "StemSemiLight";
+	box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-style: normal;
+    font-weight: 350;
+    font-size: 18px;
+    line-height: 100%;
+}
+
+
+:root {
+    --text-color:#1C1C1C;
+    --secondary-text-color: #03A543;
+    --primary-background: #D7D7D7;
+    --secondary-background: #F9F9F9;
+    --border: #E6E6E6;
+    --container: 1719px;
+
+    --hover-link:(var(--hover-link))     {
+        text-decoration-line: underline;
+    } 
+}
+
+._container {
+    max-width: var(--container);
+    margin: 0 auto;
+} */
+
+h1 {
+    font-family: 'StemMedium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 52px;
+    line-height: 100%;
+    color: #1C1C1C;
+}
+
+/* ==================================================== */
+.main-product {
+    background-image: url(/img/card-product/Rectangle.jpg);
+    width: 100%;
+    height: 100%;
+}
+.main-product__container {
+    height: 720px;
+
+}
+    
+.product__swiper-wrapper {
+    width: 100%;
+    }
+.slide-product {
+    max-width: 1780px;
+    margin: 0 auto;
+    
+}
+
+.product-image__slide {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;   
+   
+}
+.swiper-button-next {
+    display: block;
+}
+.prompt__product {
+}
+.product-content {
+    position: absolute;
+    right: 17.2%;
+    bottom: 23%;
+
+}
+.product__main-title {
+    margin-bottom: 20px;
+    
+}
+.product__main-description {
+    font-family: 'StemSemiLight';
+    font-style: normal;
+    font-weight: 350;
+    font-size: 20px;
+    line-height: 100%;
+    color: #000000;
+    opacity: 0.6;
+}
+.swiper-pagination {
+}
+.product-slider__pagination {
+}
